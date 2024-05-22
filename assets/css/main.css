@@ -3568,10 +3568,10 @@ h1.type-js span.type-js span {
   background-color: #ffffff;
 }
 .white-version .preloader .preloader-block .preloader-icon .loading-dot {
-  background-color: #d80101;
+  background-color: #4096ee;
 }
 .white-version .resume-section .professional-item .item-arrow i {
-  color: #d80101;
+  color: #4096ee;
 }
 .white-version .skills-section .single-skill .skill-progress {
   background: rgba(0, 0, 0, 0.15);
@@ -3594,7 +3594,7 @@ h1.type-js span.type-js span {
   color: #fff;
 }
 .white-version .section-wrapper .popup-close .close-btn {
-  background: #fff;
+  background: #ff0000;
   -webkit-box-shadow: rgb(207, 207, 207) 0px 4px 33px;
           box-shadow: rgb(207, 207, 207) 0px 4px 33px;
 }
